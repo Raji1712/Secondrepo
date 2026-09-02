@@ -1,0 +1,5 @@
+<!-- Hyperlink -->
+<a href="https://wikipedia.org" target="_blank">Visit Wikipedia</a>
+
+<!-- Image with alternative text for accessibility -->
+<img src="https://placeholder.com" alt="Placeholder Image layout">
